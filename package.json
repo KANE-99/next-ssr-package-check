@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@contentstack/live-preview-utils": "file:contentstack-live-preview-utils-3.0.1.tgz",
+    "next": "14.2.17",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.17"
+    "react-dom": "^18"
   }
 }
